@@ -1,0 +1,30 @@
+{
+  "name": "@grishin/weather",
+  "version": "1.0.0",
+  "description": "Training application",
+  "main": "index.js",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grishinalexey/weather-begin.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Alexey Grishin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grishinalexey/weather-begin/issues"
+  },
+  "homepage": "https://github.com/grishinalexey/weather-begin#readme"
+}
